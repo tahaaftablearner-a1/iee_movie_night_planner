@@ -1,12 +1,4 @@
-# Movie Night Planner (`ieee-movie-night-planner`)
-
-**Week 2: Advanced Python & Data Structures**  
-**IEEE LGU AI/ML Cohort One**  
-**AI/ML Leads:** Abdullah Faisal & Alina Irshad  
-
----
-
-## 1. Project Overview
+ 1. Project Overview
 The **Movie Night Planner** is a modular Python application designed to load external movie datasets, search/filter movies dynamically, and curate a personal watchlist. It demonstrates clean software architecture, robust input validation, duplicate prevention using sets, and automated runtime analytics.
 
 ---
